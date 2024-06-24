@@ -12,8 +12,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ## Table of Contents
 - [About](https://github.com/tiannaparris/Data-Analysis-Portfolio/blo
-- [Portfolio Projects]((https://github.com/NahuelDinunzio/NahuelDinunzio.github.io
-/blob/main/README.md#portfolio-projects)
+- [Portfolio Projects](https://github.com/NahuelDinunzio/NahuelDinunzio.github.io?tab=readme-ov-file#portfolio-projects))
   - Python
     - [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/tiannaparris/Data-Analysi
     - [Tech Store Sales Analysis](https://github.com/tiannaparris/Data-Analysis-
