@@ -106,7 +106,7 @@ UADE University - Econmics
 Dec 2022 - Current
 
 Ditella University - Business
-Bachelor's degree, Biochemistry and Molecular Biology,
+
 2019 - 2022
 
 
