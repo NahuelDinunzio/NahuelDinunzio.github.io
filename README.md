@@ -11,8 +11,8 @@ My CV in [pdf](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/mai
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 ## Table of Contents
-- [About](https://github.com/tiannaparris/Data-Analysis-Portfolio/blo
-- [Portfolio Projects](https://github.com/NahuelDinunzio/NahuelDinunzio.github.io?tab=readme-ov-file#portfolio-projects))
+- [About](https://github.com/NahuelDinunzio/NahuelDinunzio.github.io?tab=readme-ov-file#about)
+- [Portfolio Projects](https://github.com/NahuelDinunzio/NahuelDinunzio.github.io?tab=readme-ov-file#portfolio-projects)
   - Python
     - [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/tiannaparris/Data-Analysi
     - [Tech Store Sales Analysis](https://github.com/tiannaparris/Data-Analysis-
@@ -27,9 +27,9 @@ This is a repository to showcase skills, share projects and track my progress in
   
 
 
-- [Education](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/RE
-- [Certificates](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/R
-- [Contact](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/READM
+- [Education](https://github.com/NahuelDinunzio/NahuelDinunzio.github.io?tab=readme-ov-file#education)
+- [Certificates](https://github.com/NahuelDinunzio/NahuelDinunzio.github.io?tab=readme-ov-file#certificates)
+- [Contact](https://github.com/NahuelDinunzio/NahuelDinunzio.github.io?tab=readme-ov-file#contacts)
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
@@ -116,5 +116,6 @@ The best way to showcase skills is by doing and sharing your job done but someti
 
 
 ## Contacts
-- LinkedIn: [www.linkedin.com/in/nahuel-di-nunzio-646311223/]
+- LinkedIn: www.linkedin.com/in/nahuel-di-nunzio-646311223/
 - Email: Nahueldinunzio@gmail.com
+
